@@ -5,8 +5,6 @@
     $username = "user";
     $password = "password";
 
-    //Tables available to connect - users(SSN,Name,Email,DOB) , ... 
-
     try
     {
 	    $pdo = new PDO("mysql:host=$servername;dbname=database_name", $username, $password);
