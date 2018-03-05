@@ -1,7 +1,5 @@
 
 <?php
-    // FTP credentials - host: d3mill.net, user: project@d3mill.net, password: project@d3mill.net  
-    
     //Database credentials
     $servername = "host";
     $username = "user";
